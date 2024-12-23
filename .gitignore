@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+
+
+
 # User-specific files
 *.rsuser
 *.suo
@@ -398,3 +401,14 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+## 파일이 너무 커서 안올라가 없애는 파일들
+# .gitignore 파일 내용
+dfdc_deepfake_challenge/libs/shape_predictor_68_face_landmarks.dat
+flutter_screen_recorder-main/android_build/
+flutter-apk/
+flutter_screen_recorder-main/build/app/outputs/flutter-apk/app-debug.java
+flutter_screen_recorder-main/.java_tool/android_build/
+flutter_screen_recorder-main/.java_tool/android_build/1aff797c5ad6874d86d2d37f77649668/app.java
+flutter_screen_recorder-main/.java_tool/android_build/a5f65e4d11ef04f4e02abdf28dd4c5b0/app.java

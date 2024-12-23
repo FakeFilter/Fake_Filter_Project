@@ -1,0 +1,40 @@
+name: screen_recorder
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  win32: ^5.5.1
+  image_picker: ^0.8.7+5
+  gallery_saver: ^2.3.0
+  url_launcher: ^6.0.20
+  http: ^0.13.6
+  cupertino_icons: ^1.0.2
+  ed_screen_recorder: ^0.0.13
+  path_provider: ^2.1.1
+  video_player: ^2.9.2
+  flutter_xlider: ^3.5.0
+  file_picker: ^5.0.0
+  permission_handler: ^10.2.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icon_main.png
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon_main.png" # 아이콘 경로 설정
