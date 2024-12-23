@@ -1,0 +1,1 @@
+{"inputs":["C:\\Users\\Owner\\Downloads\\android_project\\flutter_screen_recorder-main\\.dart_tool\\package_config_subset"],"outputs":["C:\\Users\\Owner\\Downloads\\android_project\\flutter_screen_recorder-main\\.dart_tool\\flutter_build\\dart_plugin_registrant.dart"]}

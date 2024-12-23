@@ -1,0 +1,1 @@
+{"inputs":["C:\\Users\\Owner\\Downloads\\android_project\\flutter_screen_recorder-main\\.dart_tool\\flutter_build\\dd7948d245fc1587f249235529ff51f8\\arm64-v8a\\app.so"],"outputs":["C:\\Users\\Owner\\Downloads\\android_project\\flutter_screen_recorder-main\\build\\app\\intermediates\\flutter\\release\\arm64-v8a\\app.so"]}

@@ -1,0 +1,1 @@
+{"inputs":["C:\\Users\\Owner\\Downloads\\android_project\\flutter_screen_recorder-main\\.dart_tool\\flutter_build\\76d569603cb6e3c02374f85687b85c3c\\program.dill","C:\\Users\\Owner\\Downloads\\android_project\\flutter_screen_recorder-main\\.dart_tool\\flutter_build\\76d569603cb6e3c02374f85687b85c3c\\native_assets.dill"],"outputs":[]}
